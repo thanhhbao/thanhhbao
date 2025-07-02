@@ -22,78 +22,24 @@
 
 ---
 
-## 👨‍💻 About Me
-
-<div align="center">
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="55%" valign="top">
-        
-<div style="padding: 20px;">
-
-### 🎯 **Who I Am**
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 12px; margin: 15px 0; color: white;">
-  <strong>🎓 Software Engineer</strong> with a passion for <br/>
-  <strong>📱 Mobile App Development</strong>
-</div>
-
-### 💻 **Tech Stack Mastery**
-
-<div style="display: flex; flex-direction: column; gap: 10px; margin: 15px 0;">
+ About Me
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="200" />
+typescriptconst developer = {
+  name: "Thành Bảo",
+  role: "Mobile & Web Developer",
+  location: "Vietnam 🇻🇳",
   
-  <div style="background: #282c34; padding: 15px; border-radius: 8px; border-left: 4px solid #61dafb;">
-    <strong>📱 Mobile:</strong> Skilled in <span style="color: #61dafb;">Flutter</span>, <span style="color: #7F52FF;">Kotlin</span>, and <span style="color: #FFA000;">Firebase</span>
-  </div>
+  expertise: {
+    mobile: ["Flutter", "Kotlin", "Dart"],
+    web: ["React", "Angular", "TypeScript"],
+    backend: ["Node.js", "Firebase", "MongoDB"],
+    tools: ["Git", "VS Code", "Figma"]
+  },
   
-  <div style="background: #282c34; padding: 15px; border-radius: 8px; border-left: 4px solid #4CAF50;">
-    <strong>🌐 Full-stack:</strong> Experience in <span style="color: #61dafb;">React</span>, <span style="color: #DD0031;">Angular</span>, and <span style="color: #68A063;">Node.js</span>
-  </div>
-  
-</div>
-
-### ⚡ **What Drives Me**
-
-<div style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4); padding: 20px; border-radius: 12px; margin: 15px 0; color: white;">
-  <strong>🚀 I turn ideas into real-world applications</strong>
-</div>
-
-### 🎵 **Fun Zone**
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 15px 0;">
-  
-  <div style="background: #1a1a2e; padding: 15px; border-radius: 8px; text-align: center; border: 2px solid #ff6b6b;">
-    <div style="font-size: 24px;">☕</div>
-    <strong>Powered by coffee</strong><br/>
-    <small>and good music</small>
-  </div>
-  
-  <div style="background: #1a1a2e; padding: 15px; border-radius: 8px; text-align: center; border: 2px solid #4ecdc4;">
-    <div style="font-size: 24px;">🎯</div>
-    <strong>Fun fact:</strong><br/>
-    <small>I can debug in my dreams!</small>
-  </div>
-  
-</div>
-
-### 💬 **Let's Connect**
-
-<div style="background: #0d1117; padding: 20px; border-radius: 12px; margin: 15px 0; border: 1px solid #30363d;">
-  
-  <div style="margin-bottom: 15px;">
-    <strong>💡 Ask me about:</strong> Flutter, React, or how to cook up some code like pizza
-  </div>
-  
-  <div style="background: linear-gradient(90deg, #667eea, #764ba2); padding: 10px; border-radius: 8px; text-align: center;">
-    <strong>📫 Contact:</strong> 
-    <a href="mailto:thanhhbao4123@gmail.com" style="color: white; text-decoration: none;">
-      thanhhbao4123@gmail.com
-    </a>
-  </div>
-  
-</div>
-
-</div>
+  currentFocus: "Building cross-platform solutions",
+  philosophy: "Clean code, smooth UX, scalable architecture"
+};
+<br clear="right"/>
 
 
 ---
