@@ -95,31 +95,6 @@
 
 </div>
 
-      </td>
-      <td width="45%" align="center" valign="top">
-        
-<div style="padding: 20px;">
-  
-  <div style="position: relative; margin-bottom: 25px;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);" />
-  </div>
-  
-  <div style="margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhbao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="320" alt="Top Languages" style="border-radius: 10px;" />
-  </div>
-  
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=thanhhbao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&custom_title=GitHub%20Activity" width="320" alt="GitHub Stats" style="border-radius: 10px;" />
-  </div>
-  
-</div>
-
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ---
 
