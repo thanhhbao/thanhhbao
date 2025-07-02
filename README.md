@@ -112,8 +112,8 @@ const developer = {
 </div>
 
 <div align="center">
-  <h3>💡 "Code is like humor. When you have to explain it, it's bad."</h3>
-  <h4>🎯 My mission: Making apps so intuitive, even my grandma can use them!</h4>
+  <h3> "Code is like humor. When you have to explain it, it's bad."</h3>
+  <h4> My mission: Making apps so intuitive, even my grandma can use them!</h4>
 </div>
 
 ## 🌐 Let's Connect & Build Something Amazing
@@ -148,7 +148,6 @@ const developer = {
 </div>
 
 <div align="center">
-  <h3>💼 Open for collaborations • 🚀 Building the future, one commit at a time</h3>
   <p><strong>Made with ❤️ and lots of ☕ by Thành Bảo</strong></p>
   <em>"When life gives you bugs, make features!"</em> 🐛✨
 </div>
