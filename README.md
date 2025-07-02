@@ -25,45 +25,101 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <table width="100%" cellpadding="20" cellspacing="0">
+  <table width="100%" cellpadding="0" cellspacing="0">
     <tr>
-      <td width="60%" valign="top">
+      <td width="55%" valign="top">
         
-🎓 **Software Engineer** with a passion for Mobile App Development
+<div style="padding: 20px;">
 
-📱 Skilled in **Flutter**, **Kotlin**, and **Firebase**
+### 🎯 **Who I Am**
 
-🌐 **Full-stack developer** with experience in React, Angular, and Node.js
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 12px; margin: 15px 0; color: white;">
+  <strong>🎓 Software Engineer</strong> with a passion for <br/>
+  <strong>📱 Mobile App Development</strong>
+</div>
 
-🚀 I turn **ideas** into **real-world applications**
+### 💻 **Tech Stack Mastery**
 
-☕ Powered by **coffee** and **good music**
+<div style="display: flex; flex-direction: column; gap: 10px; margin: 15px 0;">
+  
+  <div style="background: #282c34; padding: 15px; border-radius: 8px; border-left: 4px solid #61dafb;">
+    <strong>📱 Mobile:</strong> Skilled in <span style="color: #61dafb;">Flutter</span>, <span style="color: #7F52FF;">Kotlin</span>, and <span style="color: #FFA000;">Firebase</span>
+  </div>
+  
+  <div style="background: #282c34; padding: 15px; border-radius: 8px; border-left: 4px solid #4CAF50;">
+    <strong>🌐 Full-stack:</strong> Experience in <span style="color: #61dafb;">React</span>, <span style="color: #DD0031;">Angular</span>, and <span style="color: #68A063;">Node.js</span>
+  </div>
+  
+</div>
 
-🎯 **Fun fact:** I can debug in my dreams!
+### ⚡ **What Drives Me**
 
-💬 **Ask me about** Flutter, React, or how to cook up some code like pizza
+<div style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4); padding: 20px; border-radius: 12px; margin: 15px 0; color: white;">
+  <strong>🚀 I turn ideas into real-world applications</strong>
+</div>
 
-📫 **Contact:** thanhhbao4123@gmail.com
+### 🎵 **Fun Zone**
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 15px 0;">
+  
+  <div style="background: #1a1a2e; padding: 15px; border-radius: 8px; text-align: center; border: 2px solid #ff6b6b;">
+    <div style="font-size: 24px;">☕</div>
+    <strong>Powered by coffee</strong><br/>
+    <small>and good music</small>
+  </div>
+  
+  <div style="background: #1a1a2e; padding: 15px; border-radius: 8px; text-align: center; border: 2px solid #4ecdc4;">
+    <div style="font-size: 24px;">🎯</div>
+    <strong>Fun fact:</strong><br/>
+    <small>I can debug in my dreams!</small>
+  </div>
+  
+</div>
+
+### 💬 **Let's Connect**
+
+<div style="background: #0d1117; padding: 20px; border-radius: 12px; margin: 15px 0; border: 1px solid #30363d;">
+  
+  <div style="margin-bottom: 15px;">
+    <strong>💡 Ask me about:</strong> Flutter, React, or how to cook up some code like pizza
+  </div>
+  
+  <div style="background: linear-gradient(90deg, #667eea, #764ba2); padding: 10px; border-radius: 8px; text-align: center;">
+    <strong>📫 Contact:</strong> 
+    <a href="mailto:thanhhbao4123@gmail.com" style="color: white; text-decoration: none;">
+      thanhhbao4123@gmail.com
+    </a>
+  </div>
+  
+</div>
+
+</div>
 
       </td>
-      <td width="40%" align="center" valign="top">
+      <td width="45%" align="center" valign="top">
         
-<div style="position: relative; display: inline-block;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding" style="border-radius: 15px;" />
+<div style="padding: 20px;">
   
-  <div style="margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhbao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="350" alt="Top Languages" />
+  <div style="position: relative; margin-bottom: 25px;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);" />
   </div>
   
-  <div style="margin-top: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=thanhhbao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&custom_title=Quick%20Stats" width="350" alt="GitHub Stats" />
+  <div style="margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhbao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="320" alt="Top Languages" style="border-radius: 10px;" />
   </div>
+  
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=thanhhbao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&custom_title=GitHub%20Activity" width="320" alt="GitHub Stats" style="border-radius: 10px;" />
+  </div>
+  
 </div>
 
       </td>
     </tr>
   </table>
 </div>
+
+---
 
 ---
 
