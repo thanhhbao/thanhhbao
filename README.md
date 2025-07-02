@@ -1,10 +1,10 @@
 <!-- 🎨 Profile Header -->
-<h1 align="center" style="font-family: 'Segoe UI', sans-serif; color: #ff79c6; animation: pop 1s ease-in-out infinite alternate;">
+<h1 align="center" style="font-family: 'Segoe UI', sans-serif; color: #ff79c6;">
   Hi there, I'm <span style="color: #8be9fd;">Thành Bảo</span>
 </h1>
 
 <h3 align="center" style="font-family: 'Segoe UI', sans-serif; color: #f1fa8c;">
-   Mobile & Web Developer | Flutter · Kotlin · Firebase · React · Angular 
+  Mobile & Web Developer | Flutter · Kotlin · Firebase · React · Angular
 </h3>
 
 <!-- 💬 Typing Banner -->
@@ -18,96 +18,80 @@
   <img src="https://img.shields.io/github/followers/thanhhbao?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
+---
 
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+<div style="font-family: 'Segoe UI', sans-serif;">
+
+🎯 **Name**: Thành Bảo  
+🚀 **Role**: Mobile & Web Developer  
+📍 **Location**: Vietnam 🇻🇳  
+
+💡 **Tech Stack**:  
+&nbsp;&nbsp;&nbsp;&nbsp;📱 Mobile: Flutter, Kotlin, Dart  
+&nbsp;&nbsp;&nbsp;&nbsp;🌐 Web: React, Angular, TypeScript  
+&nbsp;&nbsp;&nbsp;&nbsp;🔧 Backend: Node.js, Firebase, MongoDB  
+&nbsp;&nbsp;&nbsp;&nbsp;🛠 Tools: Git, VS Code, Figma  
+
+🎯 **Current Focus**:  
+Crafting cross-platform apps with a focus on **clean code**, **smooth UX**, and **scalable architecture**.
+
+💬 _"Code is like humor. When you have to explain it, it’s bad."_
+
+</div>
+
+</td>
+
+<td width="40%" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="180" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 About
+## 🛠️ Tech Stack
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="200" />
+### Mobile
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-```typescript
-const developer = {
-  name: "Thành Bảo",
-  role: "Mobile & Web Developer",
-  location: "Vietnam 🇻🇳",
-  
-  expertise: {
-    mobile: ["Flutter", "Kotlin", "Dart"],
-    web: ["React", "Angular", "TypeScript"],
-    backend: ["Node.js", "Firebase", "MongoDB"],
-    tools: ["Git", "VS Code", "Figma"]
-  },
-  
-  currentFocus: "Building cross-platform solutions",
-  philosophy: "Clean code, smooth UX, scalable architecture"
-};
-```
-<br clear="right"/>
+### Web
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thanhhbao&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thanhhbao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=thanhhbao&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanhhbao&custom_title=Contribution%20Graph&bg_color=1a1b27&color=f8f8f2&line=667eea&point=f7df1e&area=true&hide_border=true" />
+</p>
 
-
-## 🛠 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,dart,firebase,react,angular,js,ts,nodejs,mongodb,html,css,git,vscode,postman&theme=dark" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
-
-### 📱 Mobile Development
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1e1b4b" />
-
-### 🌐 Web Development
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1e1b4b" />
-
-### 🔧 Tools & Others
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1e1b4b" />
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thanhhbao&show_icons=true&theme=discord_old_blurple&hide_border=true&bg_color=1e1b4b&title_color=7c3aed&icon_color=a855f7&text_color=e5e7eb&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhhbao&theme=discord_old_blurple&hide_border=true&background=1e1b4b&stroke=7c3aed&ring=a855f7&fire=a855f7&currStreakLabel=e5e7eb" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanhhbao&custom_title=Contribution%20Graph&bg_color=1e1b4b&color=e5e7eb&line=7c3aed&point=a855f7&area=true&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhbao&theme=discord_old_blurple&layout=compact&hide_border=true&bg_color=1e1b4b&title_color=7c3aed&text_color=e5e7eb&langs_count=8" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thanhhbao&theme=discord_old_blurple&utcOffset=7" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:7c3aed&height=100&section=footer&reversal=false"/>
-</div>
-
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thanhhbao&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thanhhbao&theme=tokyonight" />
+</p>
 
 ---
 ## 🔥 Featured Projects
