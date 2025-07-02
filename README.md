@@ -41,12 +41,10 @@
 
 💬 Ask me about Flutter, React, or how to cook up some code like pizza
 
-
-
-
-
----
 <div align="center" style="margin-top: 20px;">
+  
+---
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thanhhbao&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
