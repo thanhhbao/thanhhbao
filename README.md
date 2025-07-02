@@ -21,14 +21,21 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 Software Engineer với niềm đam mê **Mobile App Development**
-- 📱 Chuyên gia về **Flutter**, **Kotlin**, và **Firebase**
-- 🌐 Full-stack developer với **React**, **Angular**, **Node.js**
-- 🚀 Tôi biến ý tưởng thành ứng dụng thực tế
-- ☕ Powered by coffee and good music
-- 🎯 **Fun fact**: Tôi có thể debug trong mơ!
-- 💬 Hỏi tôi về **Flutter, React, hoặc cách làm pizza code**
-- 📫 Liên hệ: **thanhhbao4123@gmail.com**
+🎓 Software Engineer with a passion for Mobile App Development
+
+📱 Skilled in Flutter, Kotlin, and Firebase
+
+🌐 Full-stack developer with experience in React, Angular, and Node.js
+
+🚀 I turn ideas into real-world applications
+
+☕ Powered by coffee and good music
+
+🎯 Fun fact: I can debug in my dreams!
+
+💬 Ask me about Flutter, React, or how to cook up some code like pizza
+
+📫 Contact: thanhhbao4123@gmail.com
 
 ---
 
