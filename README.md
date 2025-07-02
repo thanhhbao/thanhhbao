@@ -24,6 +24,14 @@
 
 <br clear="both">
 
+## 📧 Contact
+
+👤 **Lâm Thành Bảo**  
+📫 Email: your.email@example.com  
+🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/thanhbao1/)  
+
+
+
 ## 🛠️ Công nghệ & Công cụ
 
 <div align="center">
