@@ -1,10 +1,10 @@
 <!-- 🎨 Profile Header -->
 <h1 align="center" style="font-family: 'Segoe UI', sans-serif; color: #ff79c6; animation: pop 1s ease-in-out infinite alternate;">
-  👋 Hi there, I'm <span style="color: #8be9fd;">Thành Bảo</span>
+  Hi there, I'm <span style="color: #8be9fd;">Thành Bảo</span>
 </h1>
 
 <h3 align="center" style="font-family: 'Segoe UI', sans-serif; color: #f1fa8c;">
-  ✨ Mobile & Web Developer | Flutter · Kotlin · Firebase · React · Angular ✨
+   Mobile & Web Developer | Flutter · Kotlin · Firebase · React · Angular 
 </h3>
 
 <!-- 💬 Typing Banner -->
