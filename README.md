@@ -1,23 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:7c3aed&height=120&section=header&text=Thành%20Bảo&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20Web%20Developer&descAlignY=51&descAlign=50"/>
-</div>
-
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Hi there, I'm Thành Bảo 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <h3 align="center">✨ Mobile & Web Developer | Flutter · Kotlin · Firebase · React · Angular ✨</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Welcome+to+my+GitHub!;I+build+Mobile+and+Web+Apps;Turning+coffee+into+code+since+2020;Bug+hunter+by+day%2C+dream+coder+by+night;Let's+build+something+great+together!" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I+build+Mobile+and+Web+Apps;Turning+coffee+into+code+since+2020;Bug+hunter+by+day%2C+dream+coder+by+night;Let%27s+build+something+great+together!" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thanhhbao&style=for-the-badge&color=7c3aed&labelColor=1e1b4b" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/thanhhbao?style=for-the-badge&color=7c3aed&labelColor=1e1b4b" alt="Followers" />
-  <img src="https://img.shields.io/badge/Coffee-Addict-purple?style=for-the-badge&logo=☕&labelColor=1e1b4b" alt="Coffee" />
+  <img src="https://komarev.com/ghpvc/?username=thanhhbao&label=Profile%20views&color=0e75b6&style=flat" alt="thanhhbao" />
+  <img src="https://img.shields.io/github/followers/thanhhbao?label=Followers&style=social" alt="GitHub Badge">
 </p>
 
 ---
