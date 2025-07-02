@@ -1,25 +1,29 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hi there, I'm Thành Bảo 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<!-- 🎨 Profile Header -->
+<h1 align="center" style="font-family: 'Segoe UI', sans-serif; color: #ff79c6; animation: pop 1s ease-in-out infinite alternate;">
+  👋 Hi there, I'm <span style="color: #8be9fd;">Thành Bảo</span>
 </h1>
 
-<h3 align="center">✨ Mobile & Web Developer | Flutter · Kotlin · Firebase · React · Angular ✨</h3>
+<h3 align="center" style="font-family: 'Segoe UI', sans-serif; color: #f1fa8c;">
+  ✨ Mobile & Web Developer | Flutter · Kotlin · Firebase · React · Angular ✨
+</h3>
 
+<!-- 💬 Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I+build+Mobile+and+Web+Apps;Turning+coffee+into+code+since+2020;Bug+hunter+by+day%2C+dream+coder+by+night;Let%27s+build+something+great+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I+build+Mobile+and+Web+Apps;Turning+coffee+into+code+since+2020;Bug+hunter+by+day%2C+dream+coder+by+night;Let%27s+build+something+great+together!" alt="Typing SVG" />
 </p>
 
+<!-- 👀 Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thanhhbao&label=Profile%20views&color=0e75b6&style=flat" alt="thanhhbao" />
-  <img src="https://img.shields.io/github/followers/thanhhbao?label=Followers&style=social" alt="GitHub Badge">
+  <img src="https://komarev.com/ghpvc/?username=thanhhbao&label=Profile%20views&color=ffb86c&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/thanhhbao?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
 
+<!-- 👨‍💻 About Me -->
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" style="border-radius: 20px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```javascript
 const developer = {
@@ -46,6 +50,7 @@ const developer = {
   
   motto: "Clean code, smooth UX, endless possibilities"
 };
+
 ```
 
 <br clear="right"/>
