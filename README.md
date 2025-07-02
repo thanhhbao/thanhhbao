@@ -25,77 +25,46 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=60&section=header&text=Meet%20The%20Developer&fontSize=24&fontColor=fff&animation=blinking" />
+  <table width="100%" cellpadding="20" cellspacing="0">
+    <tr>
+      <td width="60%" valign="top">
+        
+🎓 **Software Engineer** with a passion for Mobile App Development
+
+📱 Skilled in **Flutter**, **Kotlin**, and **Firebase**
+
+🌐 **Full-stack developer** with experience in React, Angular, and Node.js
+
+🚀 I turn **ideas** into **real-world applications**
+
+☕ Powered by **coffee** and **good music**
+
+🎯 **Fun fact:** I can debug in my dreams!
+
+💬 **Ask me about** Flutter, React, or how to cook up some code like pizza
+
+📫 **Contact:** thanhhbao4123@gmail.com
+
+      </td>
+      <td width="40%" align="center" valign="top">
+        
+<div style="position: relative; display: inline-block;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding" style="border-radius: 15px;" />
+  
+  <div style="margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhbao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="350" alt="Top Languages" />
+  </div>
+  
+  <div style="margin-top: 15px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=thanhhbao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&custom_title=Quick%20Stats" width="350" alt="GitHub Stats" />
+  </div>
 </div>
 
-<table width="100%" border="0">
-<tr>
-<td width="60%" valign="top">
-
-### 🚀 **Who Am I?**
-
-```yaml
-name: "Thành Bảo"
-role: "Software Engineer"
-passion: "Mobile App Development"
-experience: "4+ years"
-motto: "Turning dreams into digital reality"
-```
-
-### 💡 **What I Bring to the Table**
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
-
-**📱 Mobile Mastery**
-- Flutter wizard crafting cross-platform magic
-- Kotlin ninja building native Android experiences  
-- Firebase architect creating scalable backends
-
-**🌐 Full-Stack Excellence**
-- React alchemist brewing interactive UIs
-- Angular craftsman building enterprise solutions
-- Node.js engineer powering robust APIs
-
+      </td>
+    </tr>
+  </table>
 </div>
 
-### ⚡ **My Superpowers**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=667EEA&multiline=true&width=500&height=200&lines=🎯+Transforming+complex+ideas+into+simple+apps;☕+Converting+caffeine+into+clean+code;🎵+Coding+with+rhythm+and+good+vibes;🐛+Debugging+like+a+detective;🍕+Making+code+as+satisfying+as+pizza;💭+Dreaming+in+Dart+and+JavaScript;📧+Always+ready+to+collaborate!" alt="Typing SVG" />
-
-</td>
-<td width="40%" align="center" valign="top">
-
-<div style="position: relative;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);" />
-</div>
-
-<div style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhbao&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=6" width="300" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://img.shields.io/badge/💬_Ask_me_about-Flutter_•_React_•_Coffee-667eea?style=for-the-badge&labelColor=0d1117" alt="Ask me about" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <a href="mailto:thanhhbao4123@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Let's_Connect-thanhhbao4123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
-  </a>
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center" style="margin: 30px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=💭+Fun+Fact%3A+I+can+debug+in+my+dreams!;🏆+Challenge+Accepted%3A+From+idea+to+app+store;🎯+Mission%3A+Making+technology+accessible+to+everyone;✨+Let's+build+something+amazing+together!" alt="Fun Facts" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=60&section=footer&reversal=true" />
-</div>
-
----
 ---
 
 ## 🏆 GitHub Trophies
