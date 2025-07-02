@@ -102,87 +102,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:7c3aed&height=100&section=footer&reversal=false"/>
 </div>
 
-<div align="center">
-  <h3>💼 Open for collaborations • 🚀 Building the future, one commit at a time</h3>
-  <p><strong>Made with ❤️ and lots of ☕ by Thành Bảo</strong></p>
-  <em>"When life gives you bugs, make features!"</em> 🐛✨
-</div>
 
 ---
-## 🎯 Featured Projects
+## 🔥 Featured Projects
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 MedAI - Skin Cancer Detection
-**AI-powered medical diagnosis**
-- Deep Learning with TensorFlow
-- Flutter mobile interface  
-- Real-time image processing
-- 94% accuracy rate
-
-`Python` `TensorFlow` `Flutter` `Firebase`
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge&labelColor=1a1b27" />
-</div>
-
-</td>
-<td width="50%">
-
-### 🎵 StreamFlow - Music Platform
-**Full-stack streaming application**
-- Real-time audio streaming
-- Social features & playlists
-- Cross-platform compatibility
-- 10K+ active users
-
-`Flutter` `Node.js` `MongoDB` `WebRTC`
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Production-blue?style=for-the-badge&labelColor=1a1b27" />
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 CommerceHub - E-commerce Suite
-**Enterprise shopping solution**
-- Microservices architecture
-- Advanced analytics dashboard
-- Payment gateway integration
-- Multi-vendor support
-
-`React` `Angular` `MongoDB` `Stripe`
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Beta-orange?style=for-the-badge&labelColor=1a1b27" />
-</div>
-
-</td>
-<td width="50%">
-
-### 📊 DataViz Pro - Analytics Platform
-**Business intelligence dashboard**
-- Real-time data visualization
-- Interactive charts & reports
-- Multi-tenant architecture
-- Custom widget builder
-
-`Angular` `D3.js` `Express` `PostgreSQL`
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Development-yellow?style=for-the-badge&labelColor=1a1b27" />
-</div>
-
-</td>
-</tr>
-</table>
+  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏥 **Medical AI** | Skin Cancer Detection using Deep Learning | Python, TensorFlow, Flutter |
+| 🎵 **Spotify Clone** | Music streaming app with real-time features | Flutter, Firebase, REST API |
+| 🛒 **E-commerce Platform** | Full-stack shopping experience | React, Node.js, MongoDB |
+| 📊 **Admin Dashboard** | Real-time analytics and management | Angular, Express, MongoDB |
 
 </div>
 
