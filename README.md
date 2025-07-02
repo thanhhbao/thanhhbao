@@ -41,7 +41,7 @@
 
 💬 Ask me about Flutter, React, or how to cook up some code like pizza
 
-<div align="center" style="margin-top: 20px;">
+
 
 
 
