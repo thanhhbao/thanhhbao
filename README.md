@@ -131,7 +131,7 @@ const developer = {
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1b27" alt="Facebook" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://thanhhbao.github.io" target="_blank">
+  <a href="thanh-bao-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27" alt="Portfolio" />
   </a>
 </div>
