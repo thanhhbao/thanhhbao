@@ -53,7 +53,7 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,dart,firebase,react,angular,js,ts,nodejs,mongodb,html,css,git,vscode,figma,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,dart,firebase,react,angular,js,ts,nodejs,mongodb,html,css,git,vscode,postman&theme=dark" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
