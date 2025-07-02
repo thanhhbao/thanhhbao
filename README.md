@@ -22,9 +22,12 @@
 
 ---
 
- About Me
+## 🚀 About
+
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="200" />
-typescriptconst developer = {
+
+```typescript
+const developer = {
   name: "Thành Bảo",
   role: "Mobile & Web Developer",
   location: "Vietnam 🇻🇳",
@@ -39,6 +42,7 @@ typescriptconst developer = {
   currentFocus: "Building cross-platform solutions",
   philosophy: "Clean code, smooth UX, scalable architecture"
 };
+```
 <br clear="right"/>
 
 
