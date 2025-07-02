@@ -39,7 +39,6 @@
 
 💬 Ask me about Flutter, React, or how to cook up some code like pizza
 
-📫 Contact: thanhhbao4123@gmail.com
 
 ---
 
@@ -50,27 +49,6 @@
 
 ---
 
-## 🌐 Connect with me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/thanhbao1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/thanhhbao.0412" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1e1b4b" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:thanhhbao4123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/_pirani" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1e1b4b" />
-  </a>
-</div>
-
----
 
 ## 🛠 Tech Stack
 
