@@ -26,23 +26,31 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 Software Engineer with a passion for **Mobile App Development**  
-📱 Skilled in **Flutter**, **Kotlin**, and **Firebase**  
-🌐 Full-stack developer with experience in **React**, **Angular**, and **Node.js**  
-🚀 I turn ideas into real-world applications  
-☕ Powered by coffee and good music  
-🎯 **Fun fact**: I can debug in my dreams!  
-💬 Ask me about **Flutter**, **React**, or how to cook up some code like pizza  
+🎓 Software Engineer with a passion for Mobile App Development
+
+📱 Skilled in Flutter, Kotlin, and Firebase
+
+🌐 Full-stack developer with experience in React, Angular, and Node.js
+
+🚀 I turn ideas into real-world applications
+
+☕ Powered by coffee and good music
+
+🎯 Fun fact: I can debug in my dreams!
+
+💬 Ask me about Flutter, React, or how to cook up some code like pizza
+
+📫 Contact: thanhhbao4123@gmail.com
 
 ---
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thanhhbao&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
+
 
 ## 🛠 Tech Stack
 
