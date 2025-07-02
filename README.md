@@ -20,60 +20,58 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="200" />
 
-<div style="font-family: 'Segoe UI', sans-serif;">
-
-🎯 **Name**: Thành Bảo  
-🚀 **Role**: Mobile & Web Developer  
-📍 **Location**: Vietnam 🇻🇳  
-
-💡 **Tech Stack**:  
-&nbsp;&nbsp;&nbsp;&nbsp;📱 Mobile: Flutter, Kotlin, Dart  
-&nbsp;&nbsp;&nbsp;&nbsp;🌐 Web: React, Angular, TypeScript  
-&nbsp;&nbsp;&nbsp;&nbsp;🔧 Backend: Node.js, Firebase, MongoDB  
-&nbsp;&nbsp;&nbsp;&nbsp;🛠 Tools: Git, VS Code, Figma  
-
-🎯 **Current Focus**:  
-Crafting cross-platform apps with a focus on **clean code**, **smooth UX**, and **scalable architecture**.
-
-💬 _"Code is like humor. When you have to explain it, it’s bad."_
-
-</div>
-
-</td>
-
-<td width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="180" />
-</td>
-</tr>
-</table>
+```typescript
+const developer = {
+  name: "Thành Bảo",
+  role: "Mobile & Web Developer",
+  location: "Vietnam 🇻🇳",
+  
+  expertise: {
+    mobile: ["Flutter", "Kotlin", "Dart"],
+    web: ["React", "Angular", "TypeScript"],
+    backend: ["Node.js", "Firebase", "MongoDB"],
+    tools: ["Git", "VS Code", "Figma"]
+  },
+  
+  currentFocus: "Building cross-platform solutions",
+  philosophy: "Clean code, smooth UX, scalable architecture"
+};
+```
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,dart,firebase,react,angular,js,ts,nodejs,mongodb,html,css,git,vscode,postman&theme=dark" />
+</div>
 
-### Web
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<div align="center" style="margin-top: 20px;">
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### 📱 Mobile Development
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1e1b4b" />
+
+### 🌐 Web Development
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1e1b4b" />
+
+### 🔧 Tools & Others
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1e1b4b" />
+
+</div>
 
 ---
 
