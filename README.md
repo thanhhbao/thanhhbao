@@ -144,10 +144,10 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer&reversal=false"/>
+  <p><strong>Made with ❤️ and lots of ☕ by Thành Bảo</strong></p>
+  <em>"When life gives you bugs, make features!"</em> 🐛✨
 </div>
 
 <div align="center">
-  <p><strong>Made with ❤️ and lots of ☕ by Thành Bảo</strong></p>
-  <em>"When life gives you bugs, make features!"</em> 🐛✨
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer&reversal=false"/>
 </div>
