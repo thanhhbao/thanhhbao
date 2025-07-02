@@ -23,45 +23,30 @@
 <!-- 👨‍💻 About Me -->
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" style="border-radius: 20px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-```javascript
-const developer = {
-  name: "Thành Bảo",
-  role: "Mobile & Web Developer",
-  location: "Vietnam 🇻🇳",
-  
-  skills: {
-    mobile: ["Flutter", "Kotlin", "Dart", "Firebase"],
-    web: ["React", "Angular", "Node.js", "TypeScript"],
-    database: ["MongoDB", "Firebase", "PostgreSQL"],
-    tools: ["Git", "VS Code", "Figma", "Postman"]
-  },
-  
-  currentlyLearning: "AI/ML Integration",
-  hobbies: ["Coding", "Music", "Coffee brewing ☕"],
-  
-  funFacts: [
-    "🎯 I can debug in my dreams!",
-    "🍕 Ask me about Flutter, React, or pizza code recipes",
-    "☕ Powered by coffee and good music",
-    "🚀 I turn ideas into real-world applications"
-  ],
-  
-  motto: "Clean code, smooth UX, endless possibilities"
-};
+🎓 Software Engineer with a passion for Mobile App Development
 
-```
+📱 Skilled in Flutter, Kotlin, and Firebase
 
-<br clear="right"/>
+🌐 Full-stack developer with experience in React, Angular, and Node.js
+
+🚀 I turn ideas into real-world applications
+
+☕ Powered by coffee and good music
+
+🎯 Fun fact: I can debug in my dreams!
+
+💬 Ask me about Flutter, React, or how to cook up some code like pizza
+
+📫 Contact: thanhhbao4123@gmail.com
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thanhhbao&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=4" />
-</div>
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thanhhbao&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
