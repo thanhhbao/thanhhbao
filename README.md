@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/github/followers/thanhhbao?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
+
+
 ---
 
 <!-- 👨‍💻 About Me -->
@@ -38,6 +40,8 @@
 🎯 Fun fact: I can debug in my dreams!
 
 💬 Ask me about Flutter, React, or how to cook up some code like pizza
+
+
 
 
 ---
