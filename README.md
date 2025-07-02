@@ -9,7 +9,7 @@
 
 <!-- 💬 Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I+build+Mobile+and+Web+Apps;Turning+coffee+into+code+since+2020;Bug+hunter+by+day%2C+dream+coder+by+night;Let%27s+build+something+great+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=#7c3aed&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I+build+Mobile+and+Web+Apps;Turning+coffee+into+code+since+2020;Bug+hunter+by+day%2C+dream+coder+by+night;Let%27s+build+something+great+together!" alt="Typing SVG" />
 </p>
 
 <!-- 👀 Stats -->
