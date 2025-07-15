@@ -113,7 +113,6 @@ const developer = {
 
 <div align="center">
   <h3> "Code is like humor. When you have to explain it, it's bad."</h3>
-  <h4> My mission: Making apps so intuitive, even my grandma can use them!</h4>
 </div>
 
 ## 🌐 Let's Connect & Build Something Amazing
