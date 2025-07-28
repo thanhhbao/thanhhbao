@@ -33,8 +33,7 @@ const developer = {
   expertise: {
     mobile: ["Flutter", "Kotlin", "React Native"],
     web: ["React", "Angular", "TypeScript"],
-    backend: ["Node.js", "Firebase", "MongoDB"],
-    tools: ["Git", "VS Code", "Figma"]
+    backend: ["Node.js", "Firebase", "MongoDB"]
   },
   
   currentFocus: "Building cross-platform solutions",
