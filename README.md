@@ -31,7 +31,7 @@ const developer = {
   location: "Vietnam 🇻🇳",
   
   expertise: {
-    mobile: ["Flutter", "Kotlin", "Dart"],
+    mobile: ["Flutter", "Kotlin", "React Native"],
     web: ["React", "Angular", "TypeScript"],
     backend: ["Node.js", "Firebase", "MongoDB"],
     tools: ["Git", "VS Code", "Figma"]
